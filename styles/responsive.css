@@ -1,0 +1,11 @@
+@media screen and (max-width: 980px) {
+  #pagination {
+    width: 50vw;
+  }
+  #pagination-section {
+    width: 50vw;
+  }
+  #pagination a {
+    padding: 8px 15px;
+  }
+}
